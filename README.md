@@ -14,7 +14,7 @@
 ## 🛠️ Habilidades  
 ### Linguagens e Tecnologias  
 - 💻 **Frontend:** [HTML, CSS, TypeScript, React, Angular]  
-- ⚙️ **Backend:** [Node.js, Java]  
+- ⚙️ **Backend:** [Node.js, Java, Python]  
 - 📱 **Mobile:** [Flutter]  
 - 🛢️ **Banco de Dados:** [MySQL, PostgreSQL]  
 
